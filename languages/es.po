@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Repetier-Server\n"
+"POT-Creation-Date: 2013-01-27 15:14+0100\n"
+"PO-Revision-Date: 2014-08-20 16:08+0100\n"
+"Last-Translator: Luis E. Fraguada <fraguada@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /Users/littwin/Documents/Projekte/Repetier-Server/"
+"Repetier-Server/www/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: about.php:42 configure.php:42 documentation.php:39 index.php:40
+#: printer.php:42
+msgid "Home"
+msgstr "Inicio"
+
+#: about.php:43 about.php:57 configure.php:43 documentation.php:40
+#: index.php:41 printer.php:43
+msgid "About"
+msgstr "Acerca"
+
+#: about.php:44 configure.php:44 documentation.php:41 documentation.php:54
+#: index.php:42 printer.php:44
+msgid "Documentation"
+msgstr "Documentación"
+
+#: about.php:55 configure.php:55 documentation.php:52 index.php:55
+#: printer.php:142
+msgid "Printer overview"
+msgstr "Impresoras"
+
+#: configure.php:57 index.php:137
+msgid "Configure"
+msgstr "Configurar"
+
+#: configure.php:63
+msgid "Edit script "
+msgstr "Editar código"
+
+#: configure.php:66
+msgid "Select script to edit"
+msgstr "Seleccionar código para editar"
+
+#: configure.php:72
+msgid "Current script:"
+msgstr "Código corriente:"
+
+#: configure.php:73
+msgid "Save"
+msgstr "Guardar"
+
+#: index.php:65
+msgid "Printer"
+msgstr "Impresora"
+
+#: index.php:66 index.php:130
+msgid "Online"
+msgstr "Conectado"
+
+#: index.php:67 printer.php:162 printer.php:179
+msgid "Job"
+msgstr "Trabajo"
+
+#: index.php:68 printer.php:165 printer.php:182
+msgid "Action"
+msgstr "Acción"
+
+#: index.php:110
+msgid "Do you really want to disconnect the printer?"
+msgstr "Realmente desea desconectar la impresora?"
+
+#: index.php:111 printer.php:451 printer.php:462 printer.php:473
+#: printer.php:484 printer.php:495
+msgid "Yes"
+msgstr "Si"
+
+#: index.php:118 printer.php:457 printer.php:468 printer.php:479
+#: printer.php:490 printer.php:501
+msgid "No"
+msgstr "No"
+
+#: index.php:129
+msgid "Deactivated"
+msgstr "Deactivada"
+
+#: index.php:131 printer.php:144
+msgid "Offline"
+msgstr "Desconectado"
+
+#: index.php:133
+msgid "No job running"
+msgstr "Ningun trabajo"
+
+#: index.php:136
+msgid "Use"
+msgstr "Usar"
+
+#: index.php:139
+msgid "Deactivate"
+msgstr "Deactivar"
+
+#: index.php:141
+msgid "Activate"
+msgstr "Activar"
+
+#: printer.php:56
+msgid "Upload Job"
+msgstr "Subir Trabajo"
+
+#: printer.php:61
+msgid "Job Name"
+msgstr "Nombre de trabajo"
+
+#: printer.php:63 printer.php:88
+msgid "G-Code File"
+msgstr "Archivo G-Code"
+
+#: printer.php:67
+msgid "Start job after upload if possible"
+msgstr "Empezar trabajo despues de subir si es posible"
+
+#: printer.php:72 printer.php:93 printer.php:439
+msgid "Uploading ..."
+msgstr "Cargando ..."
+
+#: printer.php:72 printer.php:93
+msgid "Start upload"
+msgstr "Empezar subida"
+
+#: printer.php:73 printer.php:94 printer.php:116 printer.php:133
+msgid "Close"
+msgstr "Cerrar"
+
+#: printer.php:81
+msgid "Upload Model"
+msgstr "Subir Modelo"
+
+#: printer.php:86
+msgid "Model Name"
+msgstr "Nombre de modelo"
+
+#: printer.php:102 printer.php:258
+msgid "Extruder"
+msgstr "Extrusor"
+
+#: printer.php:106
+msgid "Temperature setting:"
+msgstr "Ajuste de temperatura:"
+
+#: printer.php:107
+msgid "Set extruder temperature"
+msgstr "Ajustar temperatura del extrusor"
+
+#: printer.php:108 printer.php:129
+msgid "Set temperature"
+msgstr "Ajustar temperatura"
+
+#: printer.php:108 printer.php:129
+msgid "Turn off"
+msgstr "Apagar"
+
+#: printer.php:109 printer.php:110
+msgid "Extrude"
+msgstr "Extrusión"
+
+#: printer.php:111 printer.php:112
+msgid "Retract"
+msgstr "Retraer"
+
+#: printer.php:124
+msgid "Heated bed"
+msgstr "Plataforma caliente"
+
+#: printer.php:128
+msgid "Set bed temperature"
+msgstr "Ajustar temperatura de la plataforma"
+
+#: printer.php:151
+msgid "Jobs"
+msgstr "Trabajos"
+
+#: printer.php:152
+msgid "Models"
+msgstr "Modelos"
+
+#: printer.php:153
+msgid "Control"
+msgstr "Control"
+
+#: printer.php:158
+msgid "Upload job"
+msgstr "Subir trabajo"
+
+#: printer.php:163 printer.php:180
+msgid "Size"
+msgstr "Tamaño"
+
+#: printer.php:164 printer.php:181
+msgid "Status"
+msgstr "Estado"
+
+#: printer.php:175
+msgid "Upload model"
+msgstr "Subir modelo"
+
+#: printer.php:196
+msgid "Type your G-Code Command"
+msgstr "Introducir commando G-Code"
+
+#: printer.php:197
+msgid "Send"
+msgstr "Enviar"
+
+#: printer.php:202
+msgid "Position"
+msgstr "Posición"
+
+#: printer.php:207
+msgid "Move head"
+msgstr "Mover cabezal"
+
+#: printer.php:244
+msgid "Turn Motor off"
+msgstr "Apagar motor"
+
+#: printer.php:249
+msgid "Speed:"
+msgstr "Velocidad:"
+
+#: printer.php:250 printer.php:252 printer.php:254 printer.php:269
+#: printer.php:285
+msgid "Change"
+msgstr "Cambiar"
+
+#: printer.php:251
+msgid "Flow:"
+msgstr "Flujo:"
+
+#: printer.php:253
+msgid "Fan:"
+msgstr "Ventilador:"
+
+#: printer.php:274
+msgid "Heated Bed"
+msgstr "Plataforma Caliente"
+
+#: printer.php:293
+msgid "Printer Log"
+msgstr "Registro Impresora"
+
+#: printer.php:294
+msgid "Show commands send<br/>to the printer."
+msgstr "Mostrar los comandos que envían <br/> a la impresora."
+
+#: printer.php:294
+msgid "Commands"
+msgstr "Comandos"
+
+#: printer.php:295
+msgid "Show printer acknowledges and<br/>state change messages."
+msgstr "Mostrar respuestas de impresora y mensajes de cambio de estado <br/>."
+
+#: printer.php:295
+msgid "ACK"
+msgstr "ACK"
+
+#: printer.php:296
+msgid ""
+"Stops the log update so you can read<br/> the log. After restart old logs "
+"are fetched<br/>from the server if still available."
+msgstr ""
+"Detiene la actualización de registro para que pueda leer <br/> el registro. "
+"Después de reiniciar, registros antiguos se recogen <br/> del servidor si "
+"todavía están disponible."
+
+#: printer.php:296
+msgid "Pause log Update"
+msgstr "Pausar actualizacion del registro"
+
+#: printer.php:398 printer.php:401 printer.php:416 printer.php:429
+msgid "Off"
+msgstr "Apagar"
+
+#: printer.php:437
+msgid "Waiting for print"
+msgstr "Esperando impresión"
+
+#: printer.php:437
+msgid "Stored"
+msgstr "Almacenado"
+
+#: printer.php:438
+msgid "Printing ..."
+msgstr "Imprimiendo ..."
+
+#: printer.php:450
+msgid "Do you really want to start this job?"
+msgstr "Seguramente quieres empezar este trabajo?"
+
+#: printer.php:461
+msgid "Do you really want to stop this job?"
+msgstr "Seguramente quieres parar este trabajo?"
+
+#: printer.php:472
+msgid "Do you really want to delete this job?"
+msgstr "Seguramente quieres borrar este trabajo?"
+
+#: printer.php:483
+msgid "Do you really want to delete this model?"
+msgstr "Seguramente quieres empezar este modelo?"
+
+#: printer.php:494
+msgid "Do you really want to copy this model to the job queue?"
+msgstr "Seguramente quieres copiar este modelo a la cola de trabajos?"
+
+#: printer.php:518
+msgid "Stop"
+msgstr "Parar"
+
+#: printer.php:522
+msgid "Start"
+msgstr "Empezar"
+
+#: printer.php:523 printer.php:546
+msgid "Delete"
+msgstr "Borrar"
+
+#: printer.php:545
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Manage"
+msgstr "Gestionar"
