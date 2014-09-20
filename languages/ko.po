@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Repetier-Server\n"
+"POT-Creation-Date: 2013-01-27 15:14+0100\n"
+"PO-Revision-Date: 2014-09-21 02:02+0900\n"
+"Last-Translator: repetier <repetierdev@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /Users/littwin/Documents/Projekte/Repetier-Server/"
+"Repetier-Server/www/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: about.php:42 configure.php:42 documentation.php:39 index.php:40
+#: printer.php:42
+msgid "Home"
+msgstr "홈"
+
+#: about.php:43 about.php:57 configure.php:43 documentation.php:40
+#: index.php:41 printer.php:43
+msgid "About"
+msgstr "정보"
+
+#: about.php:44 configure.php:44 documentation.php:41 documentation.php:54
+#: index.php:42 printer.php:44
+msgid "Documentation"
+msgstr "문서"
+
+#: about.php:55 configure.php:55 documentation.php:52 index.php:55
+#: printer.php:142
+msgid "Printer overview"
+msgstr "프린터 개요"
+
+#: configure.php:57 index.php:137
+msgid "Configure"
+msgstr "설정"
+
+#: configure.php:63
+msgid "Edit script "
+msgstr "스크립트 수정"
+
+#: configure.php:66
+msgid "Select script to edit"
+msgstr "수정할 스크립트"
+
+#: configure.php:72
+msgid "Current script:"
+msgstr "현재 스크립트"
+
+#: configure.php:73
+msgid "Save"
+msgstr "저장"
+
+#: index.php:65
+msgid "Printer"
+msgstr "프린터"
+
+#: index.php:66 index.php:130
+msgid "Online"
+msgstr "온라인"
+
+#: index.php:67 printer.php:162 printer.php:179
+msgid "Job"
+msgstr "작업"
+
+#: index.php:68 printer.php:165 printer.php:182
+msgid "Action"
+msgstr "Action"
+
+#: index.php:110
+msgid "Do you really want to disconnect the printer?"
+msgstr "프린터의 연결을 끊으시겠습니까?"
+
+#: index.php:111 printer.php:451 printer.php:462 printer.php:473
+#: printer.php:484 printer.php:495
+msgid "Yes"
+msgstr "예"
+
+#: index.php:118 printer.php:457 printer.php:468 printer.php:479
+#: printer.php:490 printer.php:501
+msgid "No"
+msgstr "아니오"
+
+#: index.php:129
+msgid "Deactivated"
+msgstr "비활성화"
+
+#: index.php:131 printer.php:144
+msgid "Offline"
+msgstr "오프라인"
+
+#: index.php:133
+msgid "No job running"
+msgstr "대기중"
+
+#: index.php:136
+msgid "Use"
+msgstr "사용"
+
+#: index.php:139
+msgid "Deactivate"
+msgstr "비활성화"
+
+#: index.php:141
+msgid "Activate"
+msgstr "활성화"
+
+#: printer.php:56
+msgid "Upload Job"
+msgstr "작업 업로드"
+
+#: printer.php:61
+msgid "Job Name"
+msgstr "작업 이름"
+
+#: printer.php:63 printer.php:88
+msgid "G-Code File"
+msgstr "G-Code 파일"
+
+#: printer.php:67
+msgid "Start job after upload if possible"
+msgstr "가능하면 업로드 이후 작업 시작"
+
+#: printer.php:72 printer.php:93 printer.php:439
+msgid "Uploading ..."
+msgstr "업로드중"
+
+#: printer.php:72 printer.php:93
+msgid "Start upload"
+msgstr "업로드 시작"
+
+#: printer.php:73 printer.php:94 printer.php:116 printer.php:133
+msgid "Close"
+msgstr "닫기"
+
+#: printer.php:81
+msgid "Upload Model"
+msgstr "모델 업로드"
+
+#: printer.php:86
+msgid "Model Name"
+msgstr "모델 이름"
+
+#: printer.php:102 printer.php:258
+msgid "Extruder"
+msgstr "압출기"
+
+#: printer.php:106
+msgid "Temperature setting:"
+msgstr "온도 설정:"
+
+#: printer.php:107
+msgid "Set extruder temperature"
+msgstr "압출기 온도 설정"
+
+#: printer.php:108 printer.php:129
+msgid "Set temperature"
+msgstr "온도 설정"
+
+#: printer.php:108 printer.php:129
+msgid "Turn off"
+msgstr "끄기"
+
+#: printer.php:109 printer.php:110
+msgid "Extrude"
+msgstr "압출"
+
+#: printer.php:111 printer.php:112
+msgid "Retract"
+msgstr "수축"
+
+#: printer.php:124
+msgid "Heated bed"
+msgstr "가열 "
+
+#: printer.php:128
+msgid "Set bed temperature"
+msgstr "베드 온도 설정"
+
+#: printer.php:151
+msgid "Jobs"
+msgstr "작업"
+
+#: printer.php:152
+msgid "Models"
+msgstr "모델"
+
+#: printer.php:153
+msgid "Control"
+msgstr "조정"
+
+#: printer.php:158
+msgid "Upload job"
+msgstr "작업 업로드"
+
+#: printer.php:163 printer.php:180
+msgid "Size"
+msgstr "크기"
+
+#: printer.php:164 printer.php:181
+msgid "Status"
+msgstr "상태"
+
+#: printer.php:175
+msgid "Upload model"
+msgstr "모델 업로드"
+
+#: printer.php:196
+msgid "Type your G-Code Command"
+msgstr "G-Code 명령어를 입력하세요"
+
+#: printer.php:197
+msgid "Send"
+msgstr "보내기"
+
+#: printer.php:202
+msgid "Position"
+msgstr "위치"
+
+#: printer.php:207
+msgid "Move head"
+msgstr "헤드 이동"
+
+#: printer.php:244
+msgid "Turn Motor off"
+msgstr "모터 끄기"
+
+#: printer.php:249
+msgid "Speed:"
+msgstr "속도:"
+
+#: printer.php:250 printer.php:252 printer.php:254 printer.php:269
+#: printer.php:285
+msgid "Change"
+msgstr "변경"
+
+#: printer.php:251
+msgid "Flow:"
+msgstr "흐름:"
+
+#: printer.php:253
+msgid "Fan:"
+msgstr "팬:"
+
+#: printer.php:274
+msgid "Heated Bed"
+msgstr "가열 베드"
+
+#: printer.php:293
+msgid "Printer Log"
+msgstr "프린터 로그"
+
+#: printer.php:294
+msgid "Show commands send<br/>to the printer."
+msgstr "프린터에 보내진<br/>명령 보기"
+
+#: printer.php:294
+msgid "Commands"
+msgstr "명령어"
+
+#: printer.php:295
+msgid "Show printer acknowledges and<br/>state change messages."
+msgstr "프린터의 확인문자와<br/>상태변경 메시지 보기"
+
+#: printer.php:295
+msgid "ACK"
+msgstr "ACK"
+
+#: printer.php:296
+msgid ""
+"Stops the log update so you can read<br/> the log. After restart old logs "
+"are fetched<br/>from the server if still available."
+msgstr ""
+"로그를 일시정지하여<br/>사용자가 읽을 수 있도록 함<br/>이전 로그들이 남아있다"
+"면<br/>재시작 후에 전달됨"
+
+#: printer.php:296
+msgid "Pause log Update"
+msgstr "로그 일시중지"
+
+#: printer.php:398 printer.php:401 printer.php:416 printer.php:429
+msgid "Off"
+msgstr "끄기"
+
+#: printer.php:437
+msgid "Waiting for print"
+msgstr "프린트 대기중"
+
+#: printer.php:437
+msgid "Stored"
+msgstr "저장됨"
+
+#: printer.php:438
+msgid "Printing ..."
+msgstr "출력 중"
+
+#: printer.php:450
+msgid "Do you really want to start this job?"
+msgstr "이 작업을 시작하시겠습니까?"
+
+#: printer.php:461
+msgid "Do you really want to stop this job?"
+msgstr "이 작업을 중지하시겠습니까?"
+
+#: printer.php:472
+msgid "Do you really want to delete this job?"
+msgstr "이 작업을 삭제하시겠습니까?"
+
+#: printer.php:483
+msgid "Do you really want to delete this model?"
+msgstr "이 모델을 삭제하시겠습니까?"
+
+#: printer.php:494
+msgid "Do you really want to copy this model to the job queue?"
+msgstr "이 모델을 작업 대기열에 추가하시겠습니까?"
+
+#: printer.php:518
+msgid "Stop"
+msgstr "정지"
+
+#: printer.php:522
+msgid "Start"
+msgstr "시작"
+
+#: printer.php:523 printer.php:546
+msgid "Delete"
+msgstr "삭제"
+
+#: printer.php:545
+msgid "Copy"
+msgstr "복사"
+
+#~ msgid "Manage"
+#~ msgstr "Manage"
