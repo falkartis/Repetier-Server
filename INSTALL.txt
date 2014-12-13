@@ -26,6 +26,7 @@ inside the Repetier-Server directory to update to newest sources.
 Compilation using CMake
 
 Inside the toplevel directory downloaded create a directory build
+> cd Repetier-Server
 > mkdir build
   
 Go to build directory
